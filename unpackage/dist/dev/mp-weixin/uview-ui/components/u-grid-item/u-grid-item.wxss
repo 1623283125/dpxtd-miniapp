@@ -1,0 +1,71 @@
+.bg-primary.data-v-54899586 {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-54899586 {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-54899586 {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-54899586 {
+  color: #105fff;
+}
+.text-subtitle.data-v-54899586 {
+  color: #8c8c8c;
+}
+.border-color.data-v-54899586 {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-54899586 {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-54899586 {
+  color: #000;
+}
+.color1.data-v-54899586 {
+  color: #333;
+}
+.color2.data-v-54899586 {
+  color: #666;
+}
+.color3.data-v-54899586 {
+  color: #808080;
+}
+.mb-08.data-v-54899586 {
+  margin-bottom: 8rpx;
+}
+.u-grid-item.data-v-54899586 {
+  box-sizing: border-box;
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+  position: relative;
+  float: left;
+}
+.u-grid-item-hover.data-v-54899586 {
+  background: #f7f7f7 !important;
+}
+.u-grid-marker-box.data-v-54899586 {
+  position: absolute;
+  display: inline-flex;
+  line-height: 0;
+}
+.u-grid-marker-wrap.data-v-54899586 {
+  position: absolute;
+}
+.u-grid-item-box.data-v-54899586 {
+  padding: 30rpx 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+  height: 100%;
+}
+

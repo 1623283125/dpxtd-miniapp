@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/upload-video/upload-video"],{2078:function(t,e,a){"use strict";a.r(e);var n=a("be44"),u=a("56f8");for(var o in u)["default"].indexOf(o)<0&&function(t){a.d(e,t,(function(){return u[t]}))}(o);var i=a("828b"),d=Object(i["a"])(u["default"],n["b"],n["c"],!1,null,null,null,!1,n["a"],void 0);e["default"]=d.exports},"56f8":function(t,e,a){"use strict";a.r(e);var n=a("da7b"),u=a.n(n);for(var o in n)["default"].indexOf(o)<0&&function(t){a.d(e,t,(function(){return n[t]}))}(o);e["default"]=u.a},be44:function(t,e,a){"use strict";a.d(e,"b",(function(){return u})),a.d(e,"c",(function(){return o})),a.d(e,"a",(function(){return n}));var n={htzImageUpload:function(){return Promise.all([a.e("common/vendor"),a.e("components/htz-image-upload/htz-image-upload")]).then(a.bind(null,"21ac"))}},u=function(){var t=this.$createElement;this._self._c},o=[]},da7b:function(t,e,a){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n={name:"upload-video",props:{mediaType:{type:String,default:"video"},defaultData:{type:Array,default:function(){return[]}},maxCount:{type:Number,default:1}},data:function(){return{uploadHeader:{},uploadData:[],fileType:0}},created:function(){this.initData()},watch:{defaultData:function(t,e){this.uploadData=t}},methods:{initData:function(){this.uploadHeader={Token:this._token||""}},onSuccess:function(t){var e=this.uploadData;if(200===t.statusCode){var a=JSON.parse(t.data);200===a.code&&(e.push({type:t.fileType,url:a.data.url}),this.fileType=t.fileType)}this.uploadData=e,this.$emit("success",this.uploadData)},onFail:function(t){},onDelete:function(t){this.$emit("success",this.uploadData)}}};e.default=n}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/upload-video/upload-video-create-component',
+    {
+        'components/upload-video/upload-video-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("2078"))
+        })
+    },
+    [['components/upload-video/upload-video-create-component']]
+]);

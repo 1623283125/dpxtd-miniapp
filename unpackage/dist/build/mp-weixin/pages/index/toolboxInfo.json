@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "创业资料",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "html-text": "/components/html-text/html-text",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "footer-arear": "/components/footer-arear/footer-arear",
+    "float-kefu": "/components/float-kefu/float-kefu",
+    "u-popup": "/uview-ui/components/u-popup/u-popup"
+  }
+}

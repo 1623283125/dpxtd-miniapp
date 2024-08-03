@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "吐槽",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "z-paging": "/uni_modules/z-paging/components/z-paging/z-paging",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-rate": "/uview-ui/components/u-rate/u-rate",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "float-publish": "/components/float-publish/float-publish",
+    "wxxy-agree-privacy": "/components/wxxy-agree-privacy/wxxy-agree-privacy"
+  }
+}

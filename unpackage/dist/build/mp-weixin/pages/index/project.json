@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "找项目",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "z-paging": "/uni_modules/z-paging/components/z-paging/z-paging",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "dropdown-list": "/components/dropdown-list/dropdown-list",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "float-publish": "/components/float-publish/float-publish"
+  }
+}

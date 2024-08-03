@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "消息详情",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "mt-swiper": "/components/mt-swiper/mt-swiper",
+    "html-text": "/components/html-text/html-text",
+    "comment-list": "/components/comment-list/comment-list",
+    "footer-arear": "/components/footer-arear/footer-arear",
+    "float-kefu": "/components/float-kefu/float-kefu"
+  }
+}

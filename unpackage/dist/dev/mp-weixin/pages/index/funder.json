@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "找资金",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "funder-u-waterfall-left": "/pages/index/funder-u-waterfall-left",
+    "funder-u-waterfall-right": "/pages/index/funder-u-waterfall-right",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "dropdown-list": "/components/dropdown-list/dropdown-list",
+    "u-waterfall": "/uview-ui/components/u-waterfall/u-waterfall",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "float-publish": "/components/float-publish/float-publish",
+    "waterfall-funder": "/pages/index/components/WaterfallFunder"
+  }
+}

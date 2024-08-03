@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "幸运抽奖",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "l-dialer": "/uni_modules/lime-dialer/components/l-dialer/l-dialer"
+  }
+}

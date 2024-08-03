@@ -1,0 +1,53 @@
+.bg-primary.data-v-ad895d94 {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-ad895d94 {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-ad895d94 {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-ad895d94 {
+  color: #105fff;
+}
+.text-subtitle.data-v-ad895d94 {
+  color: #8c8c8c;
+}
+.border-color.data-v-ad895d94 {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-ad895d94 {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-ad895d94 {
+  color: #000;
+}
+.color1.data-v-ad895d94 {
+  color: #333;
+}
+.color2.data-v-ad895d94 {
+  color: #666;
+}
+.color3.data-v-ad895d94 {
+  color: #808080;
+}
+.mb-08.data-v-ad895d94 {
+  margin-bottom: 8rpx;
+}
+.u-waterfall.data-v-ad895d94 {
+  display: flex;
+  flex-direction: row;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.u-column.data-v-ad895d94 {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  flex-direction: column;
+  height: auto;
+}
+.u-image.data-v-ad895d94 {
+  width: 100%;
+}
+

@@ -1,0 +1,1 @@
+<view class="setting-page"><view class="mt-1"><block wx:if="{{_token}}"><view data-event-opts="{{[['tap',[['btnLogout']]]]}}" class="bg-white x-center mt-1 py-3" bindtap="__e">退出当前账号</view></block><block wx:else><view data-event-opts="{{[['tap',[['btnLoin']]]]}}" class="bg-white x-center mt-1 py-3" bindtap="__e">登录账号</view></block></view></view>

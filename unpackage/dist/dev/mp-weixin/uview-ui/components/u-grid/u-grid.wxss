@@ -1,0 +1,43 @@
+.bg-primary.data-v-a7b3bc80 {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-a7b3bc80 {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-a7b3bc80 {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-a7b3bc80 {
+  color: #105fff;
+}
+.text-subtitle.data-v-a7b3bc80 {
+  color: #8c8c8c;
+}
+.border-color.data-v-a7b3bc80 {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-a7b3bc80 {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-a7b3bc80 {
+  color: #000;
+}
+.color1.data-v-a7b3bc80 {
+  color: #333;
+}
+.color2.data-v-a7b3bc80 {
+  color: #666;
+}
+.color3.data-v-a7b3bc80 {
+  color: #808080;
+}
+.mb-08.data-v-a7b3bc80 {
+  margin-bottom: 8rpx;
+}
+.u-grid.data-v-a7b3bc80 {
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+

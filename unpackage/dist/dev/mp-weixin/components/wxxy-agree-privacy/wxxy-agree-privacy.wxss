@@ -1,0 +1,41 @@
+.bg-primary.data-v-7c369144 {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-7c369144 {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-7c369144 {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-7c369144 {
+  color: #105fff;
+}
+.text-subtitle.data-v-7c369144 {
+  color: #8c8c8c;
+}
+.border-color.data-v-7c369144 {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-7c369144 {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-7c369144 {
+  color: #000;
+}
+.color1.data-v-7c369144 {
+  color: #333;
+}
+.color2.data-v-7c369144 {
+  color: #666;
+}
+.color3.data-v-7c369144 {
+  color: #808080;
+}
+.mb-08.data-v-7c369144 {
+  margin-bottom: 8rpx;
+}
+.text-decoration.data-v-7c369144 {
+  color: #07c160;
+  text-decoration: underline;
+}
+

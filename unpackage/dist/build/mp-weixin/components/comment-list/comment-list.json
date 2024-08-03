@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-rate": "/uview-ui/components/u-rate/u-rate",
+    "comment-input": "/components/comment-input/comment-input"
+  }
+}

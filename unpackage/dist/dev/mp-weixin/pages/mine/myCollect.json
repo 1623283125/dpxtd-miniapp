@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "z-paging": "/uni_modules/z-paging/components/z-paging/z-paging",
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "card-list-partner": "/components/card-list-partner/card-list-partner",
+    "card-list-resource": "/components/card-list-resource/card-list-resource",
+    "card-list-project": "/components/card-list-project/card-list-project",
+    "card-list-funder": "/components/card-list-funder/card-list-funder",
+    "card-list-news": "/components/card-list-news/card-list-news"
+  }
+}

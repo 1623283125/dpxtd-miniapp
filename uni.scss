@@ -1,0 +1,49 @@
+@import '@/common/styles/uview.theme.scss';
+
+$color3:#808080;
+
+// 背景颜色
+.bg-primary{
+	background-color:$u-type-primary;
+}
+// 背景颜色
+.bg-primary-light{
+	background-color:$u-type-primary-light;
+}
+// 背景颜色
+.u-bg-gray{
+	background-color:$u-bg-color;
+}
+// 文字颜色
+.text-primary{
+	color:$u-type-primary;
+}
+// 文字颜色
+.text-subtitle{
+	color:#8c8c8c;
+}
+.border-color{
+	border: 1rpx solid $u-type-primary-light;
+}
+.border-color1{
+	border: 1rpx solid $u-tips-color;
+}
+
+.color0{
+	color:#000;
+}
+.color1{
+	color:#333;
+}
+.color2{
+	color:#666;
+}
+.color3{
+	color:$color3;
+}
+.mb-08{
+	margin-bottom: 8rpx;
+}
+.text-primary{
+	
+}

@@ -1,0 +1,7 @@
+{
+  "componentGenerics": {
+    "scoped-slots-prize": true
+  },
+  "component": true,
+  "usingComponents": {}
+}

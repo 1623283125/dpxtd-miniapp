@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "项目进程",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "mr-progress": "/components/mr-progress/mr-progress",
+    "float-kefu": "/components/float-kefu/float-kefu"
+  }
+}

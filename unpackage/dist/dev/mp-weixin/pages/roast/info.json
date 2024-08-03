@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "吐槽详情",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-rate": "/uview-ui/components/u-rate/u-rate",
+    "user-card": "/components/user-card/user-card",
+    "html-text": "/components/html-text/html-text",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "comment-list": "/components/comment-list/comment-list",
+    "footer-arear": "/components/footer-arear/footer-arear",
+    "float-kefu": "/components/float-kefu/float-kefu"
+  }
+}

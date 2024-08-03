@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['goPublishPage']]]]}}" class="{{['data-v-45d6f521',position==='fixed'?'float-fixed':'float-relative']}}" bindtap="__e"><view class="float-publish data-v-45d6f521"><image style="width:144rpx;height:96rpx;" src="/static/images/publish.png" mode="widthFix" class="data-v-45d6f521"></image></view></view>

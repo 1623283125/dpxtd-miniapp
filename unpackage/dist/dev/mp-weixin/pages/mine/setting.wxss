@@ -1,0 +1,47 @@
+.bg-primary {
+  background-color: #105fff;
+}
+.bg-primary-light {
+  background-color: #ecf5ff;
+}
+.u-bg-gray {
+  background-color: #f3f4f6;
+}
+.text-primary {
+  color: #105fff;
+}
+.text-subtitle {
+  color: #8c8c8c;
+}
+.border-color {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1 {
+  border: 1rpx solid #909399;
+}
+.color0 {
+  color: #000;
+}
+.color1 {
+  color: #333;
+}
+.color2 {
+  color: #666;
+}
+.color3 {
+  color: #808080;
+}
+.mb-08 {
+  margin-bottom: 8rpx;
+}
+.setting-page .line-border {
+  width: 1rpx;
+  height: 50rpx;
+  background: linear-gradient(0deg, rgba(203, 225, 255, 0), #CBE1FF, rgba(203, 225, 255, 0));
+}
+.setting-page .line-border2 {
+  width: 1rpx;
+  height: 80rpx;
+  background: linear-gradient(0deg, rgba(203, 225, 255, 0), #EEF2FF, rgba(203, 225, 255, 0));
+}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "群详情介绍",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar"
+  }
+}

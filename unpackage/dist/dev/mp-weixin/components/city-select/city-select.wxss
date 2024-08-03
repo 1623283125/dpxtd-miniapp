@@ -1,0 +1,61 @@
+.bg-primary {
+  background-color: #105fff;
+}
+.bg-primary-light {
+  background-color: #ecf5ff;
+}
+.u-bg-gray {
+  background-color: #f3f4f6;
+}
+.text-primary {
+  color: #105fff;
+}
+.text-subtitle {
+  color: #8c8c8c;
+}
+.border-color {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1 {
+  border: 1rpx solid #909399;
+}
+.color0 {
+  color: #000;
+}
+.color1 {
+  color: #333;
+}
+.color2 {
+  color: #666;
+}
+.color3 {
+  color: #808080;
+}
+.mb-08 {
+  margin-bottom: 8rpx;
+}
+.area-box {
+  width: 100%;
+  overflow: hidden;
+  height: 780rpx;
+}
+.area-box > view {
+  width: 150%;
+  transition: -webkit-transform 0.3s ease-in-out 0s;
+  transition: transform 0.3s ease-in-out 0s;
+  transition: transform 0.3s ease-in-out 0s, -webkit-transform 0.3s ease-in-out 0s;
+  -webkit-transform: translateX(0);
+          transform: translateX(0);
+}
+.area-box > view.change {
+  -webkit-transform: translateX(-33.33333%);
+          transform: translateX(-33.33333%);
+}
+.area-box .area-item {
+  width: 33.3333333%;
+  height: 780rpx;
+}
+.area-box .area-item  .u-cell {
+  padding: 16rpx 24rpx;
+}
+

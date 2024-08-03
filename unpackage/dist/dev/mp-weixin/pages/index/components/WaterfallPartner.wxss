@@ -1,0 +1,37 @@
+.bg-primary.data-v-effa912e {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-effa912e {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-effa912e {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-effa912e {
+  color: #105fff;
+}
+.text-subtitle.data-v-effa912e {
+  color: #8c8c8c;
+}
+.border-color.data-v-effa912e {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-effa912e {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-effa912e {
+  color: #000;
+}
+.color1.data-v-effa912e {
+  color: #333;
+}
+.color2.data-v-effa912e {
+  color: #666;
+}
+.color3.data-v-effa912e {
+  color: #808080;
+}
+.mb-08.data-v-effa912e {
+  margin-bottom: 8rpx;
+}
+

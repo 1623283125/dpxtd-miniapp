@@ -1,0 +1,1 @@
+<block wx:for="{{rightList}}" wx:for-item="v" wx:for-index="i" wx:key="i"><waterfall-project vue-id="{{'8dd740cc-11-'+i}}" item="{{v}}" styles="margin:14rpx 0 0 14rpx;" bind:__l="__l"></waterfall-project></block>

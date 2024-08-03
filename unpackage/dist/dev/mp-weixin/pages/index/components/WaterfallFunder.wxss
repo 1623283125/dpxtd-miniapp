@@ -1,0 +1,37 @@
+.bg-primary.data-v-b2502abe {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-b2502abe {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-b2502abe {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-b2502abe {
+  color: #105fff;
+}
+.text-subtitle.data-v-b2502abe {
+  color: #8c8c8c;
+}
+.border-color.data-v-b2502abe {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-b2502abe {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-b2502abe {
+  color: #000;
+}
+.color1.data-v-b2502abe {
+  color: #333;
+}
+.color2.data-v-b2502abe {
+  color: #666;
+}
+.color3.data-v-b2502abe {
+  color: #808080;
+}
+.mb-08.data-v-b2502abe {
+  margin-bottom: 8rpx;
+}
+

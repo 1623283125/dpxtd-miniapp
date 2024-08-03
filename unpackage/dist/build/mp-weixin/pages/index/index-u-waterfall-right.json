@@ -1,0 +1,16 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-u-waterfall-left": "/pages/index/index-u-waterfall-left",
+    "index-u-waterfall-right": "/pages/index/index-u-waterfall-right",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-section": "/uview-ui/components/u-section/u-section",
+    "u-loading": "/uview-ui/components/u-loading/u-loading",
+    "u-waterfall": "/uview-ui/components/u-waterfall/u-waterfall",
+    "wxxy-agree-privacy": "/components/wxxy-agree-privacy/wxxy-agree-privacy",
+    "waterfall-project": "/pages/index/components/WaterfallProject"
+  }
+}

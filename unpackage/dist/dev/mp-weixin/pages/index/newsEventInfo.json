@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "赛事详情",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "mt-swiper": "/components/mt-swiper/mt-swiper",
+    "u-steps": "/uview-ui/components/u-steps/u-steps",
+    "html-text": "/components/html-text/html-text",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "comment-list": "/components/comment-list/comment-list",
+    "footer-arear": "/components/footer-arear/footer-arear",
+    "float-kefu": "/components/float-kefu/float-kefu"
+  }
+}

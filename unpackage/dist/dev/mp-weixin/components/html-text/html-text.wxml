@@ -1,0 +1,1 @@
+<view class="w-100" style="margin:0 -8rpx;"><textarea style="width:100%;font-size:30rpx;line-height:1.5;padding:0;margin:0;" disabled="{{true}}" auto-height="{{true}}" maxlength="{{-1}}" placeholder data-event-opts="{{[['input',[['__set_model',['','html','$event',[]]]]]]}}" value="{{html}}" bindinput="__e"></textarea></view>

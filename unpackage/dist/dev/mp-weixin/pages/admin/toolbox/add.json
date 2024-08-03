@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "月光宝盒发布",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "float-kefu": "/components/float-kefu/float-kefu",
+    "u-select": "/uview-ui/components/u-select/u-select"
+  }
+}

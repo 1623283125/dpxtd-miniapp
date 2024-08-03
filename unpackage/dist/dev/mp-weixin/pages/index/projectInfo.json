@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "项目详情",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48A5FE",
+  "backgroundColorTop": "#fff",
+  "usingComponents": {
+    "mt-swiper": "/components/mt-swiper/mt-swiper",
+    "user-card": "/components/user-card/user-card",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "html-text": "/components/html-text/html-text",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "comment-list": "/components/comment-list/comment-list",
+    "footer-arear": "/components/footer-arear/footer-arear",
+    "float-kefu": "/components/float-kefu/float-kefu",
+    "u-popup": "/uview-ui/components/u-popup/u-popup"
+  }
+}

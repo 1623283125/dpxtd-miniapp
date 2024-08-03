@@ -1,0 +1,52 @@
+.bg-primary.data-v-b51f92fc {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-b51f92fc {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-b51f92fc {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-b51f92fc {
+  color: #105fff;
+}
+.text-subtitle.data-v-b51f92fc {
+  color: #8c8c8c;
+}
+.border-color.data-v-b51f92fc {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-b51f92fc {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-b51f92fc {
+  color: #000;
+}
+.color1.data-v-b51f92fc {
+  color: #333;
+}
+.color2.data-v-b51f92fc {
+  color: #666;
+}
+.color3.data-v-b51f92fc {
+  color: #808080;
+}
+.mb-08.data-v-b51f92fc {
+  margin-bottom: 8rpx;
+}
+.float-fixed.data-v-b51f92fc {
+  right: 30rpx;
+  bottom: 50rpx;
+  z-index: 99;
+  position: fixed;
+}
+.float-relative.data-v-b51f92fc {
+  position: relative;
+}
+.float-relative .float-publish.data-v-b51f92fc {
+  right: 30rpx;
+  bottom: 50rpx;
+  z-index: 99;
+  position: absolute;
+}
+

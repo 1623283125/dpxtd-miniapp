@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mr-progress-item": "/components/mr-progress-item/mr-progress-item"
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"name": "uni-dpx",
+	"version": "1.0.0",
+	"description": "1.  新闻发布页面：发布学校自己手动输入还是选择？ 2.  xxxx 3.  xxxx",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"uni-read-pages": "^1.0.5",
+		"uni-simple-router": "^2.0.7"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@gitee.com:cooke888/uni-dpx.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@8.15.5+sha1.a58c038faac410c947dbdb93eb30994037d0fce2"
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/card-list-resource/card-list-resource"],{"0fe0":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u={name:"card-list-resource",props:{dataList:{type:Array,default:function(){return[]}},show:{type:Boolean,default:!0}},data:function(){return{status:["审核中","审核通过","审核拒绝"]}},methods:{goInfoPage:function(t){this.$u.route("/pages/index/resourceInfo",{id:t})},goEditPage:function(t){},getStatus:function(t){var n=+t-1;return this.status[n]}}};n.default=u},1755:function(t,n,e){},"1c25":function(t,n,e){"use strict";e.r(n);var u=e("ba4c"),r=e("8c66");for(var a in r)["default"].indexOf(a)<0&&function(t){e.d(n,t,(function(){return r[t]}))}(a);e("71d0");var o=e("828b"),i=Object(o["a"])(r["default"],u["b"],u["c"],!1,null,"d4874888",null,!1,u["a"],void 0);n["default"]=i.exports},"71d0":function(t,n,e){"use strict";var u=e("1755"),r=e.n(u);r.a},"8c66":function(t,n,e){"use strict";e.r(n);var u=e("0fe0"),r=e.n(u);for(var a in u)["default"].indexOf(a)<0&&function(t){e.d(n,t,(function(){return u[t]}))}(a);n["default"]=r.a},ba4c:function(t,n,e){"use strict";e.d(n,"b",(function(){return r})),e.d(n,"c",(function(){return a})),e.d(n,"a",(function(){return u}));var u={uIcon:function(){return e.e("uview-ui/components/u-icon/u-icon").then(e.bind(null,"32bb"))},uAvatar:function(){return e.e("uview-ui/components/u-avatar/u-avatar").then(e.bind(null,"eb1d"))}},r=function(){var t=this,n=t.$createElement,e=(t._self._c,t.__map(t.dataList,(function(n,e){var u=t.__get_orig(n),r=t.show?t.getStatus(n.auditStatus):null;return{$orig:u,m0:r}})));t.$mp.data=Object.assign({},{$root:{l0:e}})},a=[]}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/card-list-resource/card-list-resource-create-component',
+    {
+        'components/card-list-resource/card-list-resource-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("1c25"))
+        })
+    },
+    [['components/card-list-resource/card-list-resource-create-component']]
+]);

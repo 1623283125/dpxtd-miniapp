@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/card-list-news/card-list-news"],{"16fd":function(t,n,e){"use strict";e.r(n);var u=e("48fc"),a=e("bb24");for(var i in a)["default"].indexOf(i)<0&&function(t){e.d(n,t,(function(){return a[t]}))}(i);e("67cd");var r=e("828b"),o=Object(r["a"])(a["default"],u["b"],u["c"],!1,null,"6588741f",null,!1,u["a"],void 0);n["default"]=o.exports},"19c3":function(t,n,e){},"48fc":function(t,n,e){"use strict";e.d(n,"b",(function(){return a})),e.d(n,"c",(function(){return i})),e.d(n,"a",(function(){return u}));var u={uIcon:function(){return e.e("uview-ui/components/u-icon/u-icon").then(e.bind(null,"32bb"))}},a=function(){var t=this,n=t.$createElement,e=(t._self._c,t.__map(t.dataList,(function(n,e){var u=t.__get_orig(n),a=t.show?t.getStatus(n.auditStatus):null;return{$orig:u,m0:a}})));t.$mp.data=Object.assign({},{$root:{l0:e}})},i=[]},"67cd":function(t,n,e){"use strict";var u=e("19c3"),a=e.n(u);a.a},"8c10":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u={name:"card-list-news",props:{dataList:{type:Array,default:function(){return[]}},show:{type:Boolean,default:!0}},data:function(){return{status:["审核中","审核通过","审核拒绝"],pages:{news:"/pages/index/newsInfo",match:"/pages/index/newsEventInfo",lecture:"/pages/index/newsLectureInfo"}}},methods:{goInfoPage:function(t){var n=this.pages[t._type];this.$u.route(n,{id:t.id,type:t._type})},goEditPage:function(t){},getStatus:function(t){var n=+t-1;return this.status[n]}}};n.default=u},bb24:function(t,n,e){"use strict";e.r(n);var u=e("8c10"),a=e.n(u);for(var i in u)["default"].indexOf(i)<0&&function(t){e.d(n,t,(function(){return u[t]}))}(i);n["default"]=a.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/card-list-news/card-list-news-create-component',
+    {
+        'components/card-list-news/card-list-news-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("16fd"))
+        })
+    },
+    [['components/card-list-news/card-list-news-create-component']]
+]);

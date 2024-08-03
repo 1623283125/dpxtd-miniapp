@@ -1,0 +1,14 @@
+{
+  "component": true,
+  "usingComponents": {
+    "partner-u-waterfall-left": "/pages/index/partner-u-waterfall-left",
+    "partner-u-waterfall-right": "/pages/index/partner-u-waterfall-right",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "dropdown-list": "/components/dropdown-list/dropdown-list",
+    "u-waterfall": "/uview-ui/components/u-waterfall/u-waterfall",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "float-publish": "/components/float-publish/float-publish",
+    "waterfall-partner": "/pages/index/components/WaterfallPartner"
+  }
+}

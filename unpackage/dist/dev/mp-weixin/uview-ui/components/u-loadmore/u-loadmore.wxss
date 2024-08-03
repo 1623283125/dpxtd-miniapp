@@ -1,0 +1,71 @@
+.bg-primary.data-v-874545c0 {
+  background-color: #105fff;
+}
+.bg-primary-light.data-v-874545c0 {
+  background-color: #ecf5ff;
+}
+.u-bg-gray.data-v-874545c0 {
+  background-color: #f3f4f6;
+}
+.text-primary.data-v-874545c0 {
+  color: #105fff;
+}
+.text-subtitle.data-v-874545c0 {
+  color: #8c8c8c;
+}
+.border-color.data-v-874545c0 {
+  border: 1rpx solid #ecf5ff;
+}
+.border-color1.data-v-874545c0 {
+  border: 1rpx solid #909399;
+}
+.color0.data-v-874545c0 {
+  color: #000;
+}
+.color1.data-v-874545c0 {
+  color: #333;
+}
+.color2.data-v-874545c0 {
+  color: #666;
+}
+.color3.data-v-874545c0 {
+  color: #808080;
+}
+.mb-08.data-v-874545c0 {
+  margin-bottom: 8rpx;
+}
+u-line.data-v-874545c0 {
+  flex: none;
+}
+.u-load-more-wrap.data-v-874545c0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.u-load-more-inner.data-v-874545c0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0 12rpx;
+}
+.u-more.data-v-874545c0 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.u-dot-text.data-v-874545c0 {
+  font-size: 28rpx;
+}
+.u-loadmore-icon-wrap.data-v-874545c0 {
+  margin-right: 8rpx;
+}
+.u-loadmore-icon.data-v-874545c0 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
